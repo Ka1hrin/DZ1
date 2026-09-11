@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Threading;
 
-public class Латыпова
+public class PDF1
 {
     static void Main()
     {
